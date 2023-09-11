@@ -2,7 +2,7 @@
 
 <b>Simple, Decent & Feature Rich Chatting Application with Firebase.</b></br>
 
- <b>Features👇 : </b>
+ <b>Features : </b>
 <ul>
 <li>Show only known users or contacts
 <li>Real-Time Messaging (With Firebase)
